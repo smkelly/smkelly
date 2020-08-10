@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello.
+
+I am Sean Kelly. I work at [FlightAware](https://flightaware.com). In my spare time, I like spending time with my family and tinkering with home automation.
+
 
 <!--
 **smkelly/smkelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
